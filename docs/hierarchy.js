@@ -171,7 +171,7 @@ var hierarchy =
       [ "CGV.CGVSquareValueAttribute", "class_c_g_v_1_1_c_g_v_square_value_attribute.html", null ]
     ] ],
     [ "PropertyDrawer", null, [
-      [ "CGV.CGVSquareValueDrawer", "class_c_g_v_1_1_c_g_v_square_value_drawer.html", null ]
+      [ "CGV.Editor.CGVSquareValueDrawer", "class_c_g_v_1_1_editor_1_1_c_g_v_square_value_drawer.html", null ]
     ] ],
     [ "ScriptableObject", null, [
       [ "CGV.CGVClonableScriptableObject< T >", "class_c_g_v_1_1_c_g_v_clonable_scriptable_object.html", null ],

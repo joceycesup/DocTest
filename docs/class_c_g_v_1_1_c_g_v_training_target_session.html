@@ -92,6 +92,9 @@ $(document).ready(function(){initNavTree('class_c_g_v_1_1_c_g_v_training_target_
 <div class="title">CGV.CGVTrainingTargetSession Class Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
+
+<p>This component is the base for a training session.  
+ <a href="class_c_g_v_1_1_c_g_v_training_target_session.html#details">More...</a></p>
 <div class="dynheader">
 Inheritance diagram for CGV.CGVTrainingTargetSession:</div>
 <div class="dyncontent">
@@ -102,13 +105,45 @@ Inheritance diagram for CGV.CGVTrainingTargetSession:</div>
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pro-attribs"></a>
 Protected Attributes</h2></td></tr>
 <tr class="memitem:a1eb47d76d577d3494a4f112fa376504b"><td class="memItemLeft" align="right" valign="top">List&lt; <a class="el" href="class_c_g_v_1_1_c_g_v_training_target.html">CGVTrainingTarget</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_c_g_v_1_1_c_g_v_training_target_session.html#a1eb47d76d577d3494a4f112fa376504b">Targets</a></td></tr>
+<tr class="memdesc:a1eb47d76d577d3494a4f112fa376504b"><td class="mdescLeft">&#160;</td><td class="mdescRight">List of targets that will be watched during the session.  <a href="class_c_g_v_1_1_c_g_v_training_target_session.html#a1eb47d76d577d3494a4f112fa376504b">More...</a><br /></td></tr>
 <tr class="separator:a1eb47d76d577d3494a4f112fa376504b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad89da52b8676ed3092de5b6b9ea81d0c"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_c_g_v_1_1_c_g_v_training_target_session.html#ad89da52b8676ed3092de5b6b9ea81d0c">TargetsToShoot</a> = 1</td></tr>
+<tr class="memitem:a50046dec607aa265dadb95b1c7f9ef79"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_c_g_v_1_1_c_g_v_training_target_session.html#a50046dec607aa265dadb95b1c7f9ef79">_TargetsToShoot</a> = 1</td></tr>
+<tr class="memdesc:a50046dec607aa265dadb95b1c7f9ef79"><td class="mdescLeft">&#160;</td><td class="mdescRight">Number of targets to hit for the session to end.  <a href="class_c_g_v_1_1_c_g_v_training_target_session.html#a50046dec607aa265dadb95b1c7f9ef79">More...</a><br /></td></tr>
+<tr class="separator:a50046dec607aa265dadb95b1c7f9ef79"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad89da52b8676ed3092de5b6b9ea81d0c"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_c_g_v_1_1_c_g_v_training_target_session.html#ad89da52b8676ed3092de5b6b9ea81d0c">TargetsToShoot</a></td></tr>
 <tr class="separator:ad89da52b8676ed3092de5b6b9ea81d0c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9eb3f833b983a7df679cf9cac0bedf05"><td class="memItemLeft" align="right" valign="top">UltEvents.UltEvent&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_c_g_v_1_1_c_g_v_training_target_session.html#a9eb3f833b983a7df679cf9cac0bedf05">OnSessionOver</a></td></tr>
+<tr class="memdesc:a9eb3f833b983a7df679cf9cac0bedf05"><td class="mdescLeft">&#160;</td><td class="mdescRight">Training session ended callback.  <a href="class_c_g_v_1_1_c_g_v_training_target_session.html#a9eb3f833b983a7df679cf9cac0bedf05">More...</a><br /></td></tr>
 <tr class="separator:a9eb3f833b983a7df679cf9cac0bedf05"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Member Data Documentation</h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p>This component is the base for a training session. </p>
+<p>It references a list of training targets that will trigger other targets when hit. When a certain number of its targets have been hit, it will be disabled and fire a callback (for example, : activating another training session, opening a door, etc.)</p>
+</div><h2 class="groupheader">Member Data Documentation</h2>
+<a id="a50046dec607aa265dadb95b1c7f9ef79"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a50046dec607aa265dadb95b1c7f9ef79">&#9670;&nbsp;</a></span>_TargetsToShoot</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int CGV.CGVTrainingTargetSession._TargetsToShoot = 1</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Number of targets to hit for the session to end. </p>
+
+</div>
+</div>
 <a id="a9eb3f833b983a7df679cf9cac0bedf05"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a9eb3f833b983a7df679cf9cac0bedf05">&#9670;&nbsp;</a></span>OnSessionOver</h2>
 
@@ -128,6 +163,9 @@ Protected Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>Training session ended callback. </p>
+<p>Called when its targets have been hit enough times.</p>
 
 </div>
 </div>
@@ -151,6 +189,8 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
+<p>List of targets that will be watched during the session. </p>
+
 </div>
 </div>
 <a id="ad89da52b8676ed3092de5b6b9ea81d0c"></a>
@@ -163,7 +203,7 @@ Protected Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">int CGV.CGVTrainingTargetSession.TargetsToShoot = 1</td>
+          <td class="memname">int CGV.CGVTrainingTargetSession.TargetsToShoot</td>
         </tr>
       </table>
   </td>
@@ -184,7 +224,7 @@ Protected Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespace_c_g_v.html">CGV</a></li><li class="navelem"><a class="el" href="class_c_g_v_1_1_c_g_v_training_target_session.html">CGVTrainingTargetSession</a></li>
-    <li class="footer">Generated on Wed Oct 16 2019 11:31:34 for CGV by
+    <li class="footer">Generated on Wed Oct 16 2019 12:21:49 for CGV by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.16 </li>
   </ul>

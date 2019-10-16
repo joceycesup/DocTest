@@ -10,7 +10,7 @@ var dir_e580d7a53acc00682b5477237aac1ba7 =
       [ "CGVScreenshotWindow", "class_c_g_v_1_1_editor_1_1_c_g_v_screenshot_window.html", "class_c_g_v_1_1_editor_1_1_c_g_v_screenshot_window" ]
     ] ],
     [ "CGVSquareValueDrawer.cs", "_c_g_v_square_value_drawer_8cs.html", [
-      [ "CGVSquareValueDrawer", "class_c_g_v_1_1_c_g_v_square_value_drawer.html", "class_c_g_v_1_1_c_g_v_square_value_drawer" ]
+      [ "CGVSquareValueDrawer", "class_c_g_v_1_1_editor_1_1_c_g_v_square_value_drawer.html", "class_c_g_v_1_1_editor_1_1_c_g_v_square_value_drawer" ]
     ] ],
     [ "SerializedPropertyExtensions.cs", "_serialized_property_extensions_8cs.html", [
       [ "SerializedPropertyExtensions", "class_supyrb_1_1_serialized_property_extensions.html", "class_supyrb_1_1_serialized_property_extensions" ]

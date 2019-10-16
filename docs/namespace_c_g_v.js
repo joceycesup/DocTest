@@ -49,7 +49,6 @@ var namespace_c_g_v =
     [ "CGVSpawn", "class_c_g_v_1_1_c_g_v_spawn.html", "class_c_g_v_1_1_c_g_v_spawn" ],
     [ "CGVSplitScreen", "class_c_g_v_1_1_c_g_v_split_screen.html", "class_c_g_v_1_1_c_g_v_split_screen" ],
     [ "CGVSquareValueAttribute", "class_c_g_v_1_1_c_g_v_square_value_attribute.html", null ],
-    [ "CGVSquareValueDrawer", "class_c_g_v_1_1_c_g_v_square_value_drawer.html", "class_c_g_v_1_1_c_g_v_square_value_drawer" ],
     [ "CGVTarget", "class_c_g_v_1_1_c_g_v_target.html", "class_c_g_v_1_1_c_g_v_target" ],
     [ "CGVTargetSequence", "class_c_g_v_1_1_c_g_v_target_sequence.html", "class_c_g_v_1_1_c_g_v_target_sequence" ],
     [ "CGVTargetSequenceContainer", "class_c_g_v_1_1_c_g_v_target_sequence_container.html", "class_c_g_v_1_1_c_g_v_target_sequence_container" ],

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['killandspawn_1438',['KillAndSpawn',['../class_c_g_v_1_1_c_g_v_training_target.html#a9cf746b873db43675c4ff754ba1ebb7c',1,'CGV::CGVTrainingTarget']]]
+  ['killandspawn_1439',['KillAndSpawn',['../class_c_g_v_1_1_c_g_v_training_target.html#a9cf746b873db43675c4ff754ba1ebb7c',1,'CGV::CGVTrainingTarget']]]
 ];

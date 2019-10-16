@@ -6,5 +6,6 @@ var namespace_c_g_v_1_1_editor =
     [ "CGVGamePadVibrationEventEditor", "class_c_g_v_1_1_editor_1_1_c_g_v_game_pad_vibration_event_editor.html", "class_c_g_v_1_1_editor_1_1_c_g_v_game_pad_vibration_event_editor" ],
     [ "CGVGroundTextureWindow", "class_c_g_v_1_1_editor_1_1_c_g_v_ground_texture_window.html", null ],
     [ "CGVPointOfInterestOrderWindow", "class_c_g_v_1_1_editor_1_1_c_g_v_point_of_interest_order_window.html", null ],
-    [ "CGVScreenshotWindow", "class_c_g_v_1_1_editor_1_1_c_g_v_screenshot_window.html", "class_c_g_v_1_1_editor_1_1_c_g_v_screenshot_window" ]
+    [ "CGVScreenshotWindow", "class_c_g_v_1_1_editor_1_1_c_g_v_screenshot_window.html", "class_c_g_v_1_1_editor_1_1_c_g_v_screenshot_window" ],
+    [ "CGVSquareValueDrawer", "class_c_g_v_1_1_editor_1_1_c_g_v_square_value_drawer.html", "class_c_g_v_1_1_editor_1_1_c_g_v_square_value_drawer" ]
 ];
