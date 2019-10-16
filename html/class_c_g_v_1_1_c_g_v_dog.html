@@ -140,13 +140,16 @@ Public Member Functions</h2></td></tr>
 <tr class="memdesc:a2b305e85d892fd92c4dd5b615601861d"><td class="mdescLeft">&#160;</td><td class="mdescRight">The dog tries to change its state to Guide.  <a href="class_c_g_v_1_1_c_g_v_dog.html#a2b305e85d892fd92c4dd5b615601861d">More...</a><br /></td></tr>
 <tr class="separator:a2b305e85d892fd92c4dd5b615601861d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:adbb624b07203f9d4da26e5300765eabf"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_c_g_v_1_1_c_g_v_dog.html#adbb624b07203f9d4da26e5300765eabf">FollowMaster</a> ()</td></tr>
+<tr class="memdesc:adbb624b07203f9d4da26e5300765eabf"><td class="mdescLeft">&#160;</td><td class="mdescRight">The dog tries to change its state to Follow.  <a href="class_c_g_v_1_1_c_g_v_dog.html#adbb624b07203f9d4da26e5300765eabf">More...</a><br /></td></tr>
 <tr class="separator:adbb624b07203f9d4da26e5300765eabf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a138f49afce22e91b126c2e7c84517628"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_c_g_v_1_1_c_g_v_dog.html#a138f49afce22e91b126c2e7c84517628">Attack</a> (<a class="el" href="class_c_g_v_1_1_c_g_v_player_character.html">CGVPlayerCharacter</a> character)</td></tr>
+<tr class="memdesc:a138f49afce22e91b126c2e7c84517628"><td class="mdescLeft">&#160;</td><td class="mdescRight">Not implemented yet  <a href="class_c_g_v_1_1_c_g_v_dog.html#a138f49afce22e91b126c2e7c84517628">More...</a><br /></td></tr>
+<tr class="separator:a138f49afce22e91b126c2e7c84517628"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3861151895fbe56c1a172d5ec5da26c4"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_c_g_v_1_1_c_g_v_dog.html#a3861151895fbe56c1a172d5ec5da26c4">FetchAmmunition</a> (int ammoType=-1)</td></tr>
+<tr class="memdesc:a3861151895fbe56c1a172d5ec5da26c4"><td class="mdescLeft">&#160;</td><td class="mdescRight">The dog tries to fetch closest ammo of type ammoType.  <a href="class_c_g_v_1_1_c_g_v_dog.html#a3861151895fbe56c1a172d5ec5da26c4">More...</a><br /></td></tr>
 <tr class="separator:a3861151895fbe56c1a172d5ec5da26c4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a81392d6c0920377f5dc0b151d7a22704"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_c_g_v_1_1_c_g_v_dog.html#a81392d6c0920377f5dc0b151d7a22704">Fetch</a> (<a class="el" href="interface_c_g_v_1_1_i_c_g_v_consumable.html">ICGVConsumable</a> consumable)</td></tr>
 <tr class="separator:a81392d6c0920377f5dc0b151d7a22704"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a138f49afce22e91b126c2e7c84517628"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_c_g_v_1_1_c_g_v_dog.html#a138f49afce22e91b126c2e7c84517628">Attack</a> (<a class="el" href="class_c_g_v_1_1_c_g_v_player_character.html">CGVPlayerCharacter</a> character)</td></tr>
-<tr class="separator:a138f49afce22e91b126c2e7c84517628"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-static-methods"></a>
 Static Public Member Functions</h2></td></tr>
@@ -278,6 +281,8 @@ Properties</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
+<p>Not implemented yet </p>
+
 </div>
 </div>
 <a id="a81392d6c0920377f5dc0b151d7a22704"></a>
@@ -314,6 +319,15 @@ Properties</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
+<p>The dog tries to fetch closest ammo of type ammoType. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">ammoType</td><td>If negative, the dog will try to fetch any type of ammo that is the closest.</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>Whether or not it could find ammo for that type.</dd></dl>
+
 </div>
 </div>
 <a id="adbb624b07203f9d4da26e5300765eabf"></a>
@@ -330,6 +344,8 @@ Properties</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>The dog tries to change its state to Follow. </p>
 
 </div>
 </div>
@@ -375,7 +391,6 @@ Properties</h2></td></tr>
 </div><div class="memdoc">
 
 <p>The dog tries to change its state to Guide. </p>
-<dl class="section return"><dt>Returns</dt><dd>Whether or not it could change its state to Guide</dd></dl>
 
 </div>
 </div>
@@ -780,7 +795,7 @@ Properties</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespace_c_g_v.html">CGV</a></li><li class="navelem"><a class="el" href="class_c_g_v_1_1_c_g_v_dog.html">CGVDog</a></li>
-    <li class="footer">Generated on Wed Oct 16 2019 11:25:53 for CGV by
+    <li class="footer">Generated on Wed Oct 16 2019 11:31:32 for CGV by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.16 </li>
   </ul>
