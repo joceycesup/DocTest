@@ -1,7 +1,7 @@
 var dir_3ba62b99277f450ec7d4cf357bd04f63 =
 [
     [ "CGVAlien.cs", "_c_g_v_alien_8cs.html", [
-      [ "CGVAlien", "class_c_g_v_1_1_c_g_v_alien.html", "class_c_g_v_1_1_c_g_v_alien" ]
+      [ "CGVAlien", "class_c_g_v_1_1_player_1_1_c_g_v_alien.html", "class_c_g_v_1_1_player_1_1_c_g_v_alien" ]
     ] ],
     [ "CGVBoundsProvider.cs", "_c_g_v_bounds_provider_8cs.html", [
       [ "CGVBoundsProvider", "class_c_g_v_1_1_c_g_v_bounds_provider.html", "class_c_g_v_1_1_c_g_v_bounds_provider" ]
@@ -10,7 +10,7 @@ var dir_3ba62b99277f450ec7d4cf357bd04f63 =
       [ "CGVSequenceLoader", "class_c_g_v_1_1_c_g_v_sequence_loader.html", "class_c_g_v_1_1_c_g_v_sequence_loader" ]
     ] ],
     [ "CGVTarget.cs", "_c_g_v_target_8cs.html", [
-      [ "CGVTarget", "class_c_g_v_1_1_c_g_v_target.html", "class_c_g_v_1_1_c_g_v_target" ]
+      [ "CGVTarget", "class_c_g_v_1_1_player_1_1_c_g_v_target.html", "class_c_g_v_1_1_player_1_1_c_g_v_target" ]
     ] ],
     [ "CGVTargetSequence.cs", "_c_g_v_target_sequence_8cs.html", [
       [ "CGVTargetSequence", "class_c_g_v_1_1_c_g_v_target_sequence.html", "class_c_g_v_1_1_c_g_v_target_sequence" ],
@@ -24,9 +24,9 @@ var dir_3ba62b99277f450ec7d4cf357bd04f63 =
       [ "Mode", "class_c_g_v_1_1_c_g_v_target_sequence_container_1_1_parameters_1_1_mode.html", "class_c_g_v_1_1_c_g_v_target_sequence_container_1_1_parameters_1_1_mode" ]
     ] ],
     [ "CGVTrainingTarget.cs", "_c_g_v_training_target_8cs.html", [
-      [ "CGVTrainingTarget", "class_c_g_v_1_1_c_g_v_training_target.html", "class_c_g_v_1_1_c_g_v_training_target" ]
+      [ "CGVTrainingTarget", "class_c_g_v_1_1_player_1_1_c_g_v_training_target.html", "class_c_g_v_1_1_player_1_1_c_g_v_training_target" ]
     ] ],
     [ "CGVTrainingTargetSession.cs", "_c_g_v_training_target_session_8cs.html", [
-      [ "CGVTrainingTargetSession", "class_c_g_v_1_1_c_g_v_training_target_session.html", "class_c_g_v_1_1_c_g_v_training_target_session" ]
+      [ "CGVTrainingTargetSession", "class_c_g_v_1_1_player_1_1_c_g_v_training_target_session.html", "class_c_g_v_1_1_player_1_1_c_g_v_training_target_session" ]
     ] ]
 ];

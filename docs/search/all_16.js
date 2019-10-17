@@ -1,8 +1,8 @@
 var searchData=
 [
-  ['view_1073',['View',['../class_c_g_v_1_1_c_g_v_player_actions.html#acb7c09ddfccc4d54724a93ce49241474',1,'CGV::CGVPlayerActions']]],
-  ['viewdown_1074',['ViewDown',['../class_c_g_v_1_1_c_g_v_player_actions.html#adaa01ff17d00343a60df4c29d3ce8710',1,'CGV::CGVPlayerActions']]],
-  ['viewleft_1075',['ViewLeft',['../class_c_g_v_1_1_c_g_v_player_actions.html#ae17116b103dd33f2cb1d74a9b551e581',1,'CGV::CGVPlayerActions']]],
-  ['viewright_1076',['ViewRight',['../class_c_g_v_1_1_c_g_v_player_actions.html#abb01b516029f106c98bdf045e3179ab6',1,'CGV::CGVPlayerActions']]],
-  ['viewup_1077',['ViewUp',['../class_c_g_v_1_1_c_g_v_player_actions.html#a5564f79a89c4aa7e418d7cc4a718f5fa',1,'CGV::CGVPlayerActions']]]
+  ['view_1074',['View',['../class_c_g_v_1_1_player_1_1_c_g_v_player_actions.html#a7c1df6d71f5e3d223275d3b6373c25b2',1,'CGV::Player::CGVPlayerActions']]],
+  ['viewdown_1075',['ViewDown',['../class_c_g_v_1_1_player_1_1_c_g_v_player_actions.html#a071bc85ab6f96719d06e325f5127fdfa',1,'CGV::Player::CGVPlayerActions']]],
+  ['viewleft_1076',['ViewLeft',['../class_c_g_v_1_1_player_1_1_c_g_v_player_actions.html#a13d594ed3d2080fe05edb685363f2efd',1,'CGV::Player::CGVPlayerActions']]],
+  ['viewright_1077',['ViewRight',['../class_c_g_v_1_1_player_1_1_c_g_v_player_actions.html#a138b96f916792abbc3e4ed2248892b51',1,'CGV::Player::CGVPlayerActions']]],
+  ['viewup_1078',['ViewUp',['../class_c_g_v_1_1_player_1_1_c_g_v_player_actions.html#a528382f3cb100166c3a54f99751f6df3',1,'CGV::Player::CGVPlayerActions']]]
 ];

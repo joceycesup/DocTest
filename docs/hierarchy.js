@@ -39,7 +39,7 @@ var hierarchy =
       [ "CGV.Editor.CGVPointOfInterestOrderWindow", "class_c_g_v_1_1_editor_1_1_c_g_v_point_of_interest_order_window.html", null ],
       [ "CGV.Editor.CGVScreenshotWindow", "class_c_g_v_1_1_editor_1_1_c_g_v_screenshot_window.html", null ]
     ] ],
-    [ "CGV.CGVFootsteps.FeetPair", "struct_c_g_v_1_1_c_g_v_footsteps_1_1_feet_pair.html", null ],
+    [ "CGV.Player.CGVFootsteps.FeetPair", "struct_c_g_v_1_1_player_1_1_c_g_v_footsteps_1_1_feet_pair.html", null ],
     [ "CGV.ICGVConsumable", "interface_c_g_v_1_1_i_c_g_v_consumable.html", [
       [ "CGV.Equipment.CGVPickableAmmunitions", "class_c_g_v_1_1_equipment_1_1_c_g_v_pickable_ammunitions.html", null ]
     ] ],
@@ -71,8 +71,8 @@ var hierarchy =
       [ "CGV.CGVNetworkManager", "class_c_g_v_1_1_c_g_v_network_manager.html", null ]
     ] ],
     [ "IPunObservable", null, [
-      [ "CGV.CGVPlayerCharacter", "class_c_g_v_1_1_c_g_v_player_character.html", [
-        [ "CGV.CGVDogMasterPlayerCharacter", "class_c_g_v_1_1_c_g_v_dog_master_player_character.html", null ]
+      [ "CGV.Player.CGVPlayerCharacter", "class_c_g_v_1_1_player_1_1_c_g_v_player_character.html", [
+        [ "CGV.Player.CGVDogMasterPlayerCharacter", "class_c_g_v_1_1_player_1_1_c_g_v_dog_master_player_character.html", null ]
       ] ]
     ] ],
     [ "ISerializationCallbackReceiver", null, [
@@ -101,8 +101,8 @@ var hierarchy =
       [ "CGV.CGVGameManager", "class_c_g_v_1_1_c_g_v_game_manager.html", null ],
       [ "CGV.CGVNetworkManager", "class_c_g_v_1_1_c_g_v_network_manager.html", null ],
       [ "CGV.CGVPersistentInfo", "class_c_g_v_1_1_c_g_v_persistent_info.html", null ],
-      [ "CGV.CGVPlayerInputManager", "class_c_g_v_1_1_c_g_v_player_input_manager.html", null ],
-      [ "CGV.CGVSplitScreen", "class_c_g_v_1_1_c_g_v_split_screen.html", null ]
+      [ "CGV.Player.CGVPlayerInputManager", "class_c_g_v_1_1_player_1_1_c_g_v_player_input_manager.html", null ],
+      [ "CGV.Player.CGVSplitScreen", "class_c_g_v_1_1_player_1_1_c_g_v_split_screen.html", null ]
     ] ],
     [ "JCSingletonScriptableObject", null, [
       [ "CGV.CGVGameSettings", "class_c_g_v_1_1_c_g_v_game_settings.html", null ],
@@ -113,16 +113,12 @@ var hierarchy =
     [ "MonoBehaviour", null, [
       [ "CGV.CGVBeacon", "class_c_g_v_1_1_c_g_v_beacon.html", null ],
       [ "CGV.CGVBoundsProvider", "class_c_g_v_1_1_c_g_v_bounds_provider.html", null ],
-      [ "CGV.CGVDog", "class_c_g_v_1_1_c_g_v_dog.html", null ],
-      [ "CGV.CGVFootsteps", "class_c_g_v_1_1_c_g_v_footsteps.html", null ],
       [ "CGV.CGVGameLoader", "class_c_g_v_1_1_c_g_v_game_loader.html", null ],
       [ "CGV.CGVInteractable", "class_c_g_v_1_1_c_g_v_interactable.html", null ],
       [ "CGV.CGVLog", "class_c_g_v_1_1_c_g_v_log.html", null ],
       [ "CGV.CGVPlayableSceneManager", "class_c_g_v_1_1_c_g_v_playable_scene_manager.html", null ],
       [ "CGV.CGVPlayableSceneViewer", "class_c_g_v_1_1_c_g_v_playable_scene_viewer.html", null ],
       [ "CGV.CGVPlayableSceneViewList", "class_c_g_v_1_1_c_g_v_playable_scene_view_list.html", null ],
-      [ "CGV.CGVPlayerCamera", "class_c_g_v_1_1_c_g_v_player_camera.html", null ],
-      [ "CGV.CGVPlayerSight", "class_c_g_v_1_1_c_g_v_player_sight.html", null ],
       [ "CGV.CGVPointOfInterest", "class_c_g_v_1_1_c_g_v_point_of_interest.html", null ],
       [ "CGV.CGVPredicate", "class_c_g_v_1_1_c_g_v_predicate.html", [
         [ "CGV.CGVDogPredicate", "class_c_g_v_1_1_c_g_v_dog_predicate.html", null ]
@@ -133,15 +129,19 @@ var hierarchy =
       [ "CGV.CGVProjectileTrajectoryRenderer", "class_c_g_v_1_1_c_g_v_projectile_trajectory_renderer.html", null ],
       [ "CGV.CGVScriptedEvents", "class_c_g_v_1_1_c_g_v_scripted_events.html", null ],
       [ "CGV.CGVSequenceLoader", "class_c_g_v_1_1_c_g_v_sequence_loader.html", null ],
-      [ "CGV.CGVSpawn", "class_c_g_v_1_1_c_g_v_spawn.html", null ],
-      [ "CGV.CGVTarget", "class_c_g_v_1_1_c_g_v_target.html", [
-        [ "CGV.CGVAlien", "class_c_g_v_1_1_c_g_v_alien.html", null ],
-        [ "CGV.CGVPlayerCharacter", "class_c_g_v_1_1_c_g_v_player_character.html", null ],
-        [ "CGV.CGVTrainingTarget", "class_c_g_v_1_1_c_g_v_training_target.html", null ]
-      ] ],
-      [ "CGV.CGVTrainingTargetSession", "class_c_g_v_1_1_c_g_v_training_target_session.html", null ],
       [ "CGV.CGVTTSInitializer", "class_c_g_v_1_1_c_g_v_t_t_s_initializer.html", null ],
       [ "CGV.Equipment.CGVPickableAmmunitions", "class_c_g_v_1_1_equipment_1_1_c_g_v_pickable_ammunitions.html", null ],
+      [ "CGV.Player.CGVDog", "class_c_g_v_1_1_player_1_1_c_g_v_dog.html", null ],
+      [ "CGV.Player.CGVFootsteps", "class_c_g_v_1_1_player_1_1_c_g_v_footsteps.html", null ],
+      [ "CGV.Player.CGVPlayerCamera", "class_c_g_v_1_1_player_1_1_c_g_v_player_camera.html", null ],
+      [ "CGV.Player.CGVPlayerSight", "class_c_g_v_1_1_player_1_1_c_g_v_player_sight.html", null ],
+      [ "CGV.Player.CGVSpawn", "class_c_g_v_1_1_player_1_1_c_g_v_spawn.html", null ],
+      [ "CGV.Player.CGVTarget", "class_c_g_v_1_1_player_1_1_c_g_v_target.html", [
+        [ "CGV.Player.CGVAlien", "class_c_g_v_1_1_player_1_1_c_g_v_alien.html", null ],
+        [ "CGV.Player.CGVPlayerCharacter", "class_c_g_v_1_1_player_1_1_c_g_v_player_character.html", null ],
+        [ "CGV.Player.CGVTrainingTarget", "class_c_g_v_1_1_player_1_1_c_g_v_training_target.html", null ]
+      ] ],
+      [ "CGV.Player.CGVTrainingTargetSession", "class_c_g_v_1_1_player_1_1_c_g_v_training_target_session.html", null ],
       [ "CGV.Sound.CGVFlyingBullet", "class_c_g_v_1_1_sound_1_1_c_g_v_flying_bullet.html", null ],
       [ "CGV.Sound.CGVGroundTexture", "class_c_g_v_1_1_sound_1_1_c_g_v_ground_texture.html", null ],
       [ "CGV.Sound.CGVOccludedSoundObject", "class_c_g_v_1_1_sound_1_1_c_g_v_occluded_sound_object.html", null ],
@@ -159,12 +159,12 @@ var hierarchy =
       [ "CGV.UI.CGVTableRow", "class_c_g_v_1_1_u_i_1_1_c_g_v_table_row.html", null ]
     ] ],
     [ "MonoBehaviourPunCallbacks", null, [
-      [ "CGV.CGVPlayerController", "class_c_g_v_1_1_c_g_v_player_controller.html", null ],
-      [ "CGV.CGVPlayerStartGameMenu", "class_c_g_v_1_1_c_g_v_player_start_game_menu.html", null ]
+      [ "CGV.Player.CGVPlayerController", "class_c_g_v_1_1_player_1_1_c_g_v_player_controller.html", null ],
+      [ "CGV.UI.CGVPlayerStartGameMenu", "class_c_g_v_1_1_u_i_1_1_c_g_v_player_start_game_menu.html", null ]
     ] ],
     [ "CGV.CGVTargetSequenceContainer.Parameters", "class_c_g_v_1_1_c_g_v_target_sequence_container_1_1_parameters.html", null ],
     [ "PlayerActionSet", null, [
-      [ "CGV.CGVPlayerActions", "class_c_g_v_1_1_c_g_v_player_actions.html", null ]
+      [ "CGV.Player.CGVPlayerActions", "class_c_g_v_1_1_player_1_1_c_g_v_player_actions.html", null ]
     ] ],
     [ "PropertyAttribute", null, [
       [ "CGV.CGVSquareValueAttribute", "class_c_g_v_1_1_c_g_v_square_value_attribute.html", null ]
@@ -176,11 +176,11 @@ var hierarchy =
       [ "CGV.CGVClonableScriptableObject< T >", "class_c_g_v_1_1_c_g_v_clonable_scriptable_object.html", null ],
       [ "CGV.CGVFocusModePreset", "class_c_g_v_1_1_c_g_v_focus_mode_preset.html", null ],
       [ "CGV.CGVGamePadVibrationEvent", "class_c_g_v_1_1_c_g_v_game_pad_vibration_event.html", null ],
-      [ "CGV.CGVPlayableCharactersSet", "class_c_g_v_1_1_c_g_v_playable_characters_set.html", null ],
       [ "CGV.CGVScene", "class_c_g_v_1_1_c_g_v_scene.html", [
         [ "CGV.CGVPlayableScene", "class_c_g_v_1_1_c_g_v_playable_scene.html", null ]
       ] ],
-      [ "CGV.CGVTTSSettings", "class_c_g_v_1_1_c_g_v_t_t_s_settings.html", null ]
+      [ "CGV.CGVTTSSettings", "class_c_g_v_1_1_c_g_v_t_t_s_settings.html", null ],
+      [ "CGV.Player.CGVPlayableCharactersSet", "class_c_g_v_1_1_player_1_1_c_g_v_playable_characters_set.html", null ]
     ] ],
     [ "CGV.CGVScriptedEvents.ScriptedEvent", "struct_c_g_v_1_1_c_g_v_scripted_events_1_1_scripted_event.html", null ],
     [ "Supyrb.SerializedPropertyExtensions", "class_supyrb_1_1_serialized_property_extensions.html", null ],

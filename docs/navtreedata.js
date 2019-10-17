@@ -55,10 +55,10 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "_c_g_v_alien_8cs.html",
-"class_c_g_v_1_1_c_g_v_dog_predicate.html#ad626d6a42ee33ff613e565ed0077fd4caed90301c7587a431aee258c9edfae062",
-"class_c_g_v_1_1_c_g_v_player_character.html#a002bdcce846d5234db6cece5b27ace4b",
-"class_c_g_v_1_1_c_g_v_sequence_loader.html#a19f1485cdd37662cb52f17aa7dcc869c",
-"class_c_g_v_1_1_equipment_1_1_c_g_v_firearm_action.html#a267700c6584bbeeec0eee0033b51792f",
+"class_c_g_v_1_1_c_g_v_grenade.html#aba0639d0fedde548abad9c96699aa594",
+"class_c_g_v_1_1_c_g_v_target_sequence_container.html#a345717f59a3eeebe6674819fc8d72839",
+"class_c_g_v_1_1_player_1_1_c_g_v_dog.html#a58aba4ca332a45efb63b34a3dc4046e7a6602bbeb2956c035fb4cb5e844a4861b",
+"class_c_g_v_1_1_player_1_1_c_g_v_player_sight.html#a3b66613cf98a05772b61ef6b8decedee",
 "class_c_g_v_1_1_u_i_1_1_c_g_v_table_row.html#a20980f4a4309c89a402ff51f2601c491"
 ];
 
