@@ -36,7 +36,7 @@ var class_c_g_v_1_1_c_g_v_game_settings =
     [ "MaxDisplayCount", "class_c_g_v_1_1_c_g_v_game_settings.html#a46940737fd58b0a49478dbe3bf6fe807", null ],
     [ "MaxLocalPlayers", "class_c_g_v_1_1_c_g_v_game_settings.html#a466a2fe84d2220dcbcf0ae64a8409bba", null ],
     [ "MaxPlayerCount", "class_c_g_v_1_1_c_g_v_game_settings.html#a754f4f0314c223b9a3c3acb2a6ae797e", null ],
-    [ "PlayableCharacters", "class_c_g_v_1_1_c_g_v_game_settings.html#a30349ee97fa7273022fcc3a2b9d3a537", null ],
+    [ "PlayableCharacters", "class_c_g_v_1_1_c_g_v_game_settings.html#ae95fe18b47e0317bc1a8f7623fe44cde", null ],
     [ "RespawnDelay", "class_c_g_v_1_1_c_g_v_game_settings.html#a6e1f585f98ed5d15649e99788e290661", null ],
     [ "SceneSet", "class_c_g_v_1_1_c_g_v_game_settings.html#aab3bdd05423f1151f44cc59a4bc263d5", null ],
     [ "TeamSelection", "class_c_g_v_1_1_c_g_v_game_settings.html#a22cb68fad55ce7e5b499aae03255ee22", null ]

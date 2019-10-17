@@ -5,6 +5,7 @@ var namespace_c_g_v_1_1_equipment =
     [ "CGVAmmunitionType", "class_c_g_v_1_1_equipment_1_1_c_g_v_ammunition_type.html", "class_c_g_v_1_1_equipment_1_1_c_g_v_ammunition_type" ],
     [ "CGVAmmunitionTypeList", "class_c_g_v_1_1_equipment_1_1_c_g_v_ammunition_type_list.html", null ],
     [ "CGVCompassAction", "class_c_g_v_1_1_equipment_1_1_c_g_v_compass_action.html", "class_c_g_v_1_1_equipment_1_1_c_g_v_compass_action" ],
+    [ "CGVConsumableProperties", "struct_c_g_v_1_1_equipment_1_1_c_g_v_consumable_properties.html", "struct_c_g_v_1_1_equipment_1_1_c_g_v_consumable_properties" ],
     [ "CGVEquipment", "class_c_g_v_1_1_equipment_1_1_c_g_v_equipment.html", "class_c_g_v_1_1_equipment_1_1_c_g_v_equipment" ],
     [ "CGVEquipmentAction", "class_c_g_v_1_1_equipment_1_1_c_g_v_equipment_action.html", "class_c_g_v_1_1_equipment_1_1_c_g_v_equipment_action" ],
     [ "CGVEquipmentInventory", "class_c_g_v_1_1_equipment_1_1_c_g_v_equipment_inventory.html", "class_c_g_v_1_1_equipment_1_1_c_g_v_equipment_inventory" ],
@@ -14,5 +15,6 @@ var namespace_c_g_v_1_1_equipment =
     [ "CGVProjectileFocusAction", "class_c_g_v_1_1_equipment_1_1_c_g_v_projectile_focus_action.html", "class_c_g_v_1_1_equipment_1_1_c_g_v_projectile_focus_action" ],
     [ "CGVProjectileLauncherAction", "class_c_g_v_1_1_equipment_1_1_c_g_v_projectile_launcher_action.html", "class_c_g_v_1_1_equipment_1_1_c_g_v_projectile_launcher_action" ],
     [ "CGVReloadAction", "class_c_g_v_1_1_equipment_1_1_c_g_v_reload_action.html", "class_c_g_v_1_1_equipment_1_1_c_g_v_reload_action" ],
+    [ "ICGVConsumable", "interface_c_g_v_1_1_equipment_1_1_i_c_g_v_consumable.html", "interface_c_g_v_1_1_equipment_1_1_i_c_g_v_consumable" ],
     [ "ICGVWeapon", "interface_c_g_v_1_1_equipment_1_1_i_c_g_v_weapon.html", "interface_c_g_v_1_1_equipment_1_1_i_c_g_v_weapon" ]
 ];

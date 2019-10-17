@@ -1,7 +1,10 @@
 var searchData=
 [
-  ['barrel_2100',['Barrel',['../class_c_g_v_1_1_equipment_1_1_c_g_v_firearm_action.html#ae669a282d7f0640bfe110472114163ed',1,'CGV::Equipment::CGVFirearmAction']]],
-  ['beepcount_2101',['BeepCount',['../class_c_g_v_1_1_c_g_v_grenade.html#a787d29b156c686c5ad92ff0a6c8253b0',1,'CGV::CGVGrenade']]],
-  ['bounds_2102',['Bounds',['../class_c_g_v_1_1_player_1_1_c_g_v_target.html#a571b08dc915e93aba4aaefb8a3b70b1f',1,'CGV::Player::CGVTarget']]],
-  ['bullets_2103',['Bullets',['../class_c_g_v_1_1_equipment_1_1_c_g_v_firearm_action.html#a151f94d300f47b8de5976f60adebbe1d',1,'CGV::Equipment::CGVFirearmAction']]]
+  ['accessibility_2095',['Accessibility',['../class_c_g_v_1_1_u_i_1_1_c_g_v_player_canvas.html#a0cf02c5fd16be6a2cb13e15d94e4cc6b',1,'CGV::UI::CGVPlayerCanvas']]],
+  ['actions_2096',['Actions',['../struct_c_g_v_1_1_c_g_v_scripted_events_1_1_scripted_event.html#ae4507927b794498a764269fc82192cc5',1,'CGV::CGVScriptedEvents::ScriptedEvent']]],
+  ['activeequipment_2097',['ActiveEquipment',['../class_c_g_v_1_1_player_1_1_c_g_v_player_character.html#a2760ab2d2c32efea5c25e3b4dddc35a5',1,'CGV.Player.CGVPlayerCharacter.ActiveEquipment()'],['../class_c_g_v_1_1_equipment_1_1_c_g_v_equipment_inventory.html#a070c0132d33c6e5c457111bed6f84fa7',1,'CGV.Equipment.CGVEquipmentInventory.ActiveEquipment()']]],
+  ['activeequipmentindex_2098',['ActiveEquipmentIndex',['../class_c_g_v_1_1_player_1_1_c_g_v_player_character.html#a3a3063928bb83d8f12c2218393d30f25',1,'CGV.Player.CGVPlayerCharacter.ActiveEquipmentIndex()'],['../class_c_g_v_1_1_equipment_1_1_c_g_v_equipment_inventory.html#a1fe2779b7059030789db17b87d9a1dbb',1,'CGV.Equipment.CGVEquipmentInventory.ActiveEquipmentIndex()']]],
+  ['aimspeedmodifier_2099',['AimSpeedModifier',['../class_c_g_v_1_1_c_g_v_focus_mode_preset.html#a18e72472f7f995fb4e899f25436cc9f1',1,'CGV::CGVFocusModePreset']]],
+  ['ammotype_2100',['AmmoType',['../class_c_g_v_1_1_equipment_1_1_c_g_v_firearm_action.html#a4fc5fdcb51d6e8f807a8bb450a319e1c',1,'CGV::Equipment::CGVFirearmAction']]],
+  ['ammunitions_2101',['Ammunitions',['../class_c_g_v_1_1_player_1_1_c_g_v_player_character.html#a57d2993785c1d8de04a88004e7a767cf',1,'CGV::Player::CGVPlayerCharacter']]]
 ];

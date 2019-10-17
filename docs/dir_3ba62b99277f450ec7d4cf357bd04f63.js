@@ -4,7 +4,7 @@ var dir_3ba62b99277f450ec7d4cf357bd04f63 =
       [ "CGVAlien", "class_c_g_v_1_1_player_1_1_c_g_v_alien.html", "class_c_g_v_1_1_player_1_1_c_g_v_alien" ]
     ] ],
     [ "CGVBoundsProvider.cs", "_c_g_v_bounds_provider_8cs.html", [
-      [ "CGVBoundsProvider", "class_c_g_v_1_1_c_g_v_bounds_provider.html", "class_c_g_v_1_1_c_g_v_bounds_provider" ]
+      [ "CGVBoundsProvider", "class_c_g_v_1_1_player_1_1_c_g_v_bounds_provider.html", "class_c_g_v_1_1_player_1_1_c_g_v_bounds_provider" ]
     ] ],
     [ "CGVSequenceLoader.cs", "_c_g_v_sequence_loader_8cs.html", [
       [ "CGVSequenceLoader", "class_c_g_v_1_1_c_g_v_sequence_loader.html", "class_c_g_v_1_1_c_g_v_sequence_loader" ]

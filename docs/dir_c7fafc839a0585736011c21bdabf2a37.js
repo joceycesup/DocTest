@@ -14,8 +14,8 @@ var dir_c7fafc839a0585736011c21bdabf2a37 =
     [ "CGVMouseLook.cs", "_c_g_v_mouse_look_8cs.html", [
       [ "CGVMouseLook", "class_c_g_v_1_1_c_g_v_mouse_look.html", "class_c_g_v_1_1_c_g_v_mouse_look" ]
     ] ],
-    [ "CGVPlayableCharactersSet.cs", "_c_g_v_playable_characters_set_8cs.html", [
-      [ "CGVPlayableCharactersSet", "class_c_g_v_1_1_player_1_1_c_g_v_playable_characters_set.html", "class_c_g_v_1_1_player_1_1_c_g_v_playable_characters_set" ]
+    [ "CGVPlayableCharacterSet.cs", "_c_g_v_playable_character_set_8cs.html", [
+      [ "CGVPlayableCharacterSet", "class_c_g_v_1_1_player_1_1_c_g_v_playable_character_set.html", "class_c_g_v_1_1_player_1_1_c_g_v_playable_character_set" ]
     ] ],
     [ "CGVPlayerActions.cs", "_c_g_v_player_actions_8cs.html", [
       [ "CGVPlayerActions", "class_c_g_v_1_1_player_1_1_c_g_v_player_actions.html", "class_c_g_v_1_1_player_1_1_c_g_v_player_actions" ]

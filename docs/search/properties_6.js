@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['gameduration_2140',['GameDuration',['../class_c_g_v_1_1_c_g_v_game_settings.html#acfb7a836796648c0f3d774362051df35',1,'CGV::CGVGameSettings']]],
-  ['groundtexturedetector_2141',['GroundTextureDetector',['../class_c_g_v_1_1_player_1_1_c_g_v_player_character.html#ac58bc3d7194a510ed977a965162ab3f0',1,'CGV::Player::CGVPlayerCharacter']]]
+  ['feet_2138',['Feet',['../class_c_g_v_1_1_player_1_1_c_g_v_player_character.html#acb1a6a5aa5595c8da659c569ad5e40c4',1,'CGV::Player::CGVPlayerCharacter']]],
+  ['flyingbulletsmaxtime_2139',['FlyingBulletsMaxTime',['../class_c_g_v_1_1_sound_1_1_c_g_v_sound_settings.html#a05fb9faf13a55a2303e05490124f05fb',1,'CGV::Sound::CGVSoundSettings']]],
+  ['flyingbulletsradius_2140',['FlyingBulletsRadius',['../class_c_g_v_1_1_sound_1_1_c_g_v_sound_settings.html#aa0d98f0c64729185a9f484888fd8798c',1,'CGV::Sound::CGVSoundSettings']]]
 ];

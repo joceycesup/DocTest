@@ -5,10 +5,7 @@ var namespace_c_g_v =
     [ "Player", "namespace_c_g_v_1_1_player.html", "namespace_c_g_v_1_1_player" ],
     [ "Sound", "namespace_c_g_v_1_1_sound.html", "namespace_c_g_v_1_1_sound" ],
     [ "UI", "namespace_c_g_v_1_1_u_i.html", "namespace_c_g_v_1_1_u_i" ],
-    [ "CGVBeacon", "class_c_g_v_1_1_c_g_v_beacon.html", "class_c_g_v_1_1_c_g_v_beacon" ],
-    [ "CGVBoundsProvider", "class_c_g_v_1_1_c_g_v_bounds_provider.html", "class_c_g_v_1_1_c_g_v_bounds_provider" ],
     [ "CGVClonableScriptableObject", "class_c_g_v_1_1_c_g_v_clonable_scriptable_object.html", "class_c_g_v_1_1_c_g_v_clonable_scriptable_object" ],
-    [ "CGVConsumableProperties", "struct_c_g_v_1_1_c_g_v_consumable_properties.html", "struct_c_g_v_1_1_c_g_v_consumable_properties" ],
     [ "CGVDebugUtils", "class_c_g_v_1_1_c_g_v_debug_utils.html", "class_c_g_v_1_1_c_g_v_debug_utils" ],
     [ "CGVDogPredicate", "class_c_g_v_1_1_c_g_v_dog_predicate.html", "class_c_g_v_1_1_c_g_v_dog_predicate" ],
     [ "CGVFocusModePreset", "class_c_g_v_1_1_c_g_v_focus_mode_preset.html", "class_c_g_v_1_1_c_g_v_focus_mode_preset" ],
@@ -24,8 +21,6 @@ var namespace_c_g_v =
     [ "CGVPersistentInfo", "class_c_g_v_1_1_c_g_v_persistent_info.html", "class_c_g_v_1_1_c_g_v_persistent_info" ],
     [ "CGVPlayableScene", "class_c_g_v_1_1_c_g_v_playable_scene.html", "class_c_g_v_1_1_c_g_v_playable_scene" ],
     [ "CGVPlayableSceneManager", "class_c_g_v_1_1_c_g_v_playable_scene_manager.html", "class_c_g_v_1_1_c_g_v_playable_scene_manager" ],
-    [ "CGVPlayableSceneViewer", "class_c_g_v_1_1_c_g_v_playable_scene_viewer.html", "class_c_g_v_1_1_c_g_v_playable_scene_viewer" ],
-    [ "CGVPlayableSceneViewList", "class_c_g_v_1_1_c_g_v_playable_scene_view_list.html", null ],
     [ "CGVPointOfInterest", "class_c_g_v_1_1_c_g_v_point_of_interest.html", "class_c_g_v_1_1_c_g_v_point_of_interest" ],
     [ "CGVPredicate", "class_c_g_v_1_1_c_g_v_predicate.html", "class_c_g_v_1_1_c_g_v_predicate" ],
     [ "CGVProjectile", "class_c_g_v_1_1_c_g_v_projectile.html", "class_c_g_v_1_1_c_g_v_projectile" ],
@@ -39,6 +34,5 @@ var namespace_c_g_v =
     [ "CGVTargetSequence", "class_c_g_v_1_1_c_g_v_target_sequence.html", "class_c_g_v_1_1_c_g_v_target_sequence" ],
     [ "CGVTargetSequenceContainer", "class_c_g_v_1_1_c_g_v_target_sequence_container.html", "class_c_g_v_1_1_c_g_v_target_sequence_container" ],
     [ "CGVTTSInitializer", "class_c_g_v_1_1_c_g_v_t_t_s_initializer.html", null ],
-    [ "CGVTTSSettings", "class_c_g_v_1_1_c_g_v_t_t_s_settings.html", "class_c_g_v_1_1_c_g_v_t_t_s_settings" ],
-    [ "ICGVConsumable", "interface_c_g_v_1_1_i_c_g_v_consumable.html", "interface_c_g_v_1_1_i_c_g_v_consumable" ]
+    [ "CGVTTSSettings", "class_c_g_v_1_1_c_g_v_t_t_s_settings.html", "class_c_g_v_1_1_c_g_v_t_t_s_settings" ]
 ];

@@ -11,10 +11,10 @@ var class_c_g_v_1_1_equipment_1_1_c_g_v_equipment_action =
     [ "InitAction", "class_c_g_v_1_1_equipment_1_1_c_g_v_equipment_action.html#a49c2e2beeab3aff7fe75e42598a83cf3", null ],
     [ "Release", "class_c_g_v_1_1_equipment_1_1_c_g_v_equipment_action.html#a827291bdb3c8014b46f3f8897050b226", null ],
     [ "ReleaseAction", "class_c_g_v_1_1_equipment_1_1_c_g_v_equipment_action.html#a9ceef83b50776872b6808886fcbf7e27", null ],
+    [ "_Owner", "class_c_g_v_1_1_equipment_1_1_c_g_v_equipment_action.html#a6b544066380d6be736844c96782b3f68", null ],
+    [ "_Pressed", "class_c_g_v_1_1_equipment_1_1_c_g_v_equipment_action.html#a0dc8cc45a0cb957d680b6afe529cd655", null ],
     [ "_SoundRadius", "class_c_g_v_1_1_equipment_1_1_c_g_v_equipment_action.html#a6d699890d686b20abc9597d5c73321a7", null ],
     [ "ContinuousAction", "class_c_g_v_1_1_equipment_1_1_c_g_v_equipment_action.html#a0090f85f32186d461828f9bc3b2e313d", null ],
-    [ "Owner", "class_c_g_v_1_1_equipment_1_1_c_g_v_equipment_action.html#a02907f4c497d3e2ef8bd9432305e6c26", null ],
-    [ "Pressed", "class_c_g_v_1_1_equipment_1_1_c_g_v_equipment_action.html#a6081caa2a8d6705ebdccab07a52b4ffc", null ],
     [ "TriggerActionOnSelected", "class_c_g_v_1_1_equipment_1_1_c_g_v_equipment_action.html#a611c8756af7674492ea214353a4c799e", null ],
-    [ "FirstFrame", "class_c_g_v_1_1_equipment_1_1_c_g_v_equipment_action.html#a491b57dbbb93b4e88b574e530ef0a6f9", null ]
+    [ "_FirstFrame", "class_c_g_v_1_1_equipment_1_1_c_g_v_equipment_action.html#a6516285cba25b18ea56a667bb953bf62", null ]
 ];

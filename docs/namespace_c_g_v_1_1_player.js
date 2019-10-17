@@ -1,10 +1,12 @@
 var namespace_c_g_v_1_1_player =
 [
     [ "CGVAlien", "class_c_g_v_1_1_player_1_1_c_g_v_alien.html", "class_c_g_v_1_1_player_1_1_c_g_v_alien" ],
+    [ "CGVBeacon", "class_c_g_v_1_1_player_1_1_c_g_v_beacon.html", "class_c_g_v_1_1_player_1_1_c_g_v_beacon" ],
+    [ "CGVBoundsProvider", "class_c_g_v_1_1_player_1_1_c_g_v_bounds_provider.html", "class_c_g_v_1_1_player_1_1_c_g_v_bounds_provider" ],
     [ "CGVDog", "class_c_g_v_1_1_player_1_1_c_g_v_dog.html", "class_c_g_v_1_1_player_1_1_c_g_v_dog" ],
     [ "CGVDogMasterPlayerCharacter", "class_c_g_v_1_1_player_1_1_c_g_v_dog_master_player_character.html", "class_c_g_v_1_1_player_1_1_c_g_v_dog_master_player_character" ],
     [ "CGVFootsteps", "class_c_g_v_1_1_player_1_1_c_g_v_footsteps.html", "class_c_g_v_1_1_player_1_1_c_g_v_footsteps" ],
-    [ "CGVPlayableCharactersSet", "class_c_g_v_1_1_player_1_1_c_g_v_playable_characters_set.html", "class_c_g_v_1_1_player_1_1_c_g_v_playable_characters_set" ],
+    [ "CGVPlayableCharacterSet", "class_c_g_v_1_1_player_1_1_c_g_v_playable_character_set.html", "class_c_g_v_1_1_player_1_1_c_g_v_playable_character_set" ],
     [ "CGVPlayerActions", "class_c_g_v_1_1_player_1_1_c_g_v_player_actions.html", "class_c_g_v_1_1_player_1_1_c_g_v_player_actions" ],
     [ "CGVPlayerCamera", "class_c_g_v_1_1_player_1_1_c_g_v_player_camera.html", "class_c_g_v_1_1_player_1_1_c_g_v_player_camera" ],
     [ "CGVPlayerCharacter", "class_c_g_v_1_1_player_1_1_c_g_v_player_character.html", "class_c_g_v_1_1_player_1_1_c_g_v_player_character" ],
