@@ -7,11 +7,6 @@ var NAVTREEINDEX2 =
 "class_c_g_v_1_1_c_g_v_target_sequence_container_1_1_parameters.html#a79c93ce87ea519b42c2fe8725fcf39b6":[1,0,0,37,0,1],
 "class_c_g_v_1_1_c_g_v_target_sequence_container_1_1_parameters_1_1_mode.html":[1,0,0,37,0,0],
 "class_c_g_v_1_1_c_g_v_target_sequence_container_1_1_parameters_1_1_mode.html#a473a479ff02333850b8ab62d8cb87f58":[1,0,0,37,0,0,0],
-"class_c_g_v_1_1_c_g_v_team_enum.html":[1,0,0,38],
-"class_c_g_v_1_1_c_g_v_team_list.html":[1,0,0,39],
-"class_c_g_v_1_1_c_g_v_team_value.html":[1,0,0,40],
-"class_c_g_v_1_1_c_g_v_team_value.html#a1dae94104f0a4ab3f1b248b83d6906fe":[1,0,0,40,0],
-"class_c_g_v_1_1_c_g_v_team_value.html#af89bf61134b68815bbc2d9d414145286":[1,0,0,40,1],
 "class_c_g_v_1_1_editor_1_1_c_g_v_ammunition_inventory_inspector.html":[1,0,0,0,0],
 "class_c_g_v_1_1_editor_1_1_c_g_v_ammunition_inventory_inspector.html#aa6ce4ac89829e64750d727f92c5aad5c":[1,0,0,0,0,0],
 "class_c_g_v_1_1_editor_1_1_c_g_v_editor_tests_window.html":[1,0,0,0,1],
@@ -249,5 +244,10 @@ var NAVTREEINDEX2 =
 "class_c_g_v_1_1_player_1_1_c_g_v_dog.html#a3dfae01ebd234ce52dba1ba92741fb4d":[1,0,0,2,1,4],
 "class_c_g_v_1_1_player_1_1_c_g_v_dog.html#a4a0e3f1d1316a7c9ff15f5fee5656d07":[1,0,0,2,1,19],
 "class_c_g_v_1_1_player_1_1_c_g_v_dog.html#a58aba4ca332a45efb63b34a3dc4046e7":[1,0,0,2,1,1],
-"class_c_g_v_1_1_player_1_1_c_g_v_dog.html#a58aba4ca332a45efb63b34a3dc4046e7a4ea7755f84f02d23876d90be2f9765cf":[1,0,0,2,1,1,4]
+"class_c_g_v_1_1_player_1_1_c_g_v_dog.html#a58aba4ca332a45efb63b34a3dc4046e7a4ea7755f84f02d23876d90be2f9765cf":[1,0,0,2,1,1,4],
+"class_c_g_v_1_1_player_1_1_c_g_v_dog.html#a58aba4ca332a45efb63b34a3dc4046e7a6602bbeb2956c035fb4cb5e844a4861b":[1,0,0,2,1,1,5],
+"class_c_g_v_1_1_player_1_1_c_g_v_dog.html#a58aba4ca332a45efb63b34a3dc4046e7a6adf97f83acf6453d4a6a4b1070f3754":[1,0,0,2,1,1,0],
+"class_c_g_v_1_1_player_1_1_c_g_v_dog.html#a58aba4ca332a45efb63b34a3dc4046e7a7c986af4cf8f6e55a1f846dc498ce91d":[1,0,0,2,1,1,3],
+"class_c_g_v_1_1_player_1_1_c_g_v_dog.html#a58aba4ca332a45efb63b34a3dc4046e7a8e2661c5348e7143f3f9f66d465c420c":[1,0,0,2,1,1,1],
+"class_c_g_v_1_1_player_1_1_c_g_v_dog.html#a58aba4ca332a45efb63b34a3dc4046e7ac5edd2fed6b7432d4aa9973ed3f4b60f":[1,0,0,2,1,1,8]
 };

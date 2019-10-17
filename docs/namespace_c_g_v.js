@@ -38,9 +38,6 @@ var namespace_c_g_v =
     [ "CGVSquareValueAttribute", "class_c_g_v_1_1_c_g_v_square_value_attribute.html", null ],
     [ "CGVTargetSequence", "class_c_g_v_1_1_c_g_v_target_sequence.html", "class_c_g_v_1_1_c_g_v_target_sequence" ],
     [ "CGVTargetSequenceContainer", "class_c_g_v_1_1_c_g_v_target_sequence_container.html", "class_c_g_v_1_1_c_g_v_target_sequence_container" ],
-    [ "CGVTeamEnum", "class_c_g_v_1_1_c_g_v_team_enum.html", null ],
-    [ "CGVTeamList", "class_c_g_v_1_1_c_g_v_team_list.html", null ],
-    [ "CGVTeamValue", "class_c_g_v_1_1_c_g_v_team_value.html", "class_c_g_v_1_1_c_g_v_team_value" ],
     [ "CGVTTSInitializer", "class_c_g_v_1_1_c_g_v_t_t_s_initializer.html", null ],
     [ "CGVTTSSettings", "class_c_g_v_1_1_c_g_v_t_t_s_settings.html", "class_c_g_v_1_1_c_g_v_t_t_s_settings" ],
     [ "ICGVConsumable", "interface_c_g_v_1_1_i_c_g_v_consumable.html", "interface_c_g_v_1_1_i_c_g_v_consumable" ]

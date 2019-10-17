@@ -14,6 +14,9 @@ var namespace_c_g_v_1_1_player =
     [ "CGVSpawn", "class_c_g_v_1_1_player_1_1_c_g_v_spawn.html", "class_c_g_v_1_1_player_1_1_c_g_v_spawn" ],
     [ "CGVSplitScreen", "class_c_g_v_1_1_player_1_1_c_g_v_split_screen.html", "class_c_g_v_1_1_player_1_1_c_g_v_split_screen" ],
     [ "CGVTarget", "class_c_g_v_1_1_player_1_1_c_g_v_target.html", "class_c_g_v_1_1_player_1_1_c_g_v_target" ],
+    [ "CGVTeamEnum", "class_c_g_v_1_1_player_1_1_c_g_v_team_enum.html", null ],
+    [ "CGVTeamList", "class_c_g_v_1_1_player_1_1_c_g_v_team_list.html", null ],
+    [ "CGVTeamValue", "class_c_g_v_1_1_player_1_1_c_g_v_team_value.html", "class_c_g_v_1_1_player_1_1_c_g_v_team_value" ],
     [ "CGVTrainingTarget", "class_c_g_v_1_1_player_1_1_c_g_v_training_target.html", "class_c_g_v_1_1_player_1_1_c_g_v_training_target" ],
     [ "CGVTrainingTargetSession", "class_c_g_v_1_1_player_1_1_c_g_v_training_target_session.html", "class_c_g_v_1_1_player_1_1_c_g_v_training_target_session" ]
 ];

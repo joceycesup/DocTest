@@ -43,8 +43,8 @@ var dir_c7fafc839a0585736011c21bdabf2a37 =
       [ "CGVSplitScreen", "class_c_g_v_1_1_player_1_1_c_g_v_split_screen.html", "class_c_g_v_1_1_player_1_1_c_g_v_split_screen" ]
     ] ],
     [ "CGVTeamEnum.cs", "_c_g_v_team_enum_8cs.html", [
-      [ "CGVTeamValue", "class_c_g_v_1_1_c_g_v_team_value.html", "class_c_g_v_1_1_c_g_v_team_value" ],
-      [ "CGVTeamList", "class_c_g_v_1_1_c_g_v_team_list.html", null ],
-      [ "CGVTeamEnum", "class_c_g_v_1_1_c_g_v_team_enum.html", null ]
+      [ "CGVTeamValue", "class_c_g_v_1_1_player_1_1_c_g_v_team_value.html", "class_c_g_v_1_1_player_1_1_c_g_v_team_value" ],
+      [ "CGVTeamList", "class_c_g_v_1_1_player_1_1_c_g_v_team_list.html", null ],
+      [ "CGVTeamEnum", "class_c_g_v_1_1_player_1_1_c_g_v_team_enum.html", null ]
     ] ]
 ];

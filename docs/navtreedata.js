@@ -57,9 +57,9 @@ var NAVTREEINDEX =
 "_c_g_v_alien_8cs.html",
 "class_c_g_v_1_1_c_g_v_grenade.html#aba0639d0fedde548abad9c96699aa594",
 "class_c_g_v_1_1_c_g_v_target_sequence_container.html#a345717f59a3eeebe6674819fc8d72839",
-"class_c_g_v_1_1_player_1_1_c_g_v_dog.html#a58aba4ca332a45efb63b34a3dc4046e7a6602bbeb2956c035fb4cb5e844a4861b",
-"class_c_g_v_1_1_player_1_1_c_g_v_player_sight.html#a3b66613cf98a05772b61ef6b8decedee",
-"class_c_g_v_1_1_u_i_1_1_c_g_v_table_row.html#a20980f4a4309c89a402ff51f2601c491"
+"class_c_g_v_1_1_player_1_1_c_g_v_dog.html#a58aba4ca332a45efb63b34a3dc4046e7adcfafcb4323b102c7e204555d313ba0a",
+"class_c_g_v_1_1_player_1_1_c_g_v_player_input_manager.html#af6acbbbe1a6e92f4e8ee735e86d33696",
+"class_c_g_v_1_1_u_i_1_1_c_g_v_table.html#ab68d1efba6eb657f89c82a505bde123a"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

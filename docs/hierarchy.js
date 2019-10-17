@@ -80,20 +80,20 @@ var hierarchy =
       [ "SceneReference", "class_scene_reference.html", null ]
     ] ],
     [ "JCEnumValue", null, [
-      [ "CGV.CGVTeamValue", "class_c_g_v_1_1_c_g_v_team_value.html", null ],
       [ "CGV.Equipment.CGVAmmunitionType", "class_c_g_v_1_1_equipment_1_1_c_g_v_ammunition_type.html", null ],
+      [ "CGV.Player.CGVTeamValue", "class_c_g_v_1_1_player_1_1_c_g_v_team_value.html", null ],
       [ "CGV.Sound.CGVGroundTextureValue", "class_c_g_v_1_1_sound_1_1_c_g_v_ground_texture_value.html", null ],
       [ "CGV.Sound.CGVWallSoundMaterialValue", "class_c_g_v_1_1_sound_1_1_c_g_v_wall_sound_material_value.html", null ]
     ] ],
     [ "JCEnumValueContainer", null, [
-      [ "CGV.CGVTeamList", "class_c_g_v_1_1_c_g_v_team_list.html", null ],
       [ "CGV.Equipment.CGVAmmunitionTypeList", "class_c_g_v_1_1_equipment_1_1_c_g_v_ammunition_type_list.html", null ],
+      [ "CGV.Player.CGVTeamList", "class_c_g_v_1_1_player_1_1_c_g_v_team_list.html", null ],
       [ "CGV.Sound.CGVGroundTextureList", "class_c_g_v_1_1_sound_1_1_c_g_v_ground_texture_list.html", null ],
       [ "CGV.Sound.CGVWallSoundMaterialList", "class_c_g_v_1_1_sound_1_1_c_g_v_wall_sound_material_list.html", null ]
     ] ],
     [ "JCFlexibleEnumSet", null, [
-      [ "CGV.CGVTeamEnum", "class_c_g_v_1_1_c_g_v_team_enum.html", null ],
       [ "CGV.Equipment.CGVAmmunitionEnum", "class_c_g_v_1_1_equipment_1_1_c_g_v_ammunition_enum.html", null ],
+      [ "CGV.Player.CGVTeamEnum", "class_c_g_v_1_1_player_1_1_c_g_v_team_enum.html", null ],
       [ "CGV.Sound.CGVGroundTextureEnum", "class_c_g_v_1_1_sound_1_1_c_g_v_ground_texture_enum.html", null ],
       [ "CGV.Sound.CGVWallSoundMaterialEnum", "class_c_g_v_1_1_sound_1_1_c_g_v_wall_sound_material_enum.html", null ]
     ] ],
