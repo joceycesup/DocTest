@@ -21,8 +21,5 @@ var dir_bdc3daee6d8290b2517e5b3c4e97fe05 =
     ] ],
     [ "SceneReference.cs", "_scene_reference_8cs.html", [
       [ "SceneReference", "class_scene_reference.html", "class_scene_reference" ]
-    ] ],
-    [ "SceneReferenceTest.cs", "_scene_reference_test_8cs.html", [
-      [ "SceneReferenceTest", "class_scene_reference_test.html", "class_scene_reference_test" ]
     ] ]
 ];

@@ -11,10 +11,6 @@ var dir_f13b41af88cf68434578284aaf699e39 =
     [ "Tests", "dir_819c5f94eeb3ceb186bdcd8928cc14ef.html", "dir_819c5f94eeb3ceb186bdcd8928cc14ef" ],
     [ "UI", "dir_4ae35e2d0d203079e26c83ccaec95743.html", "dir_4ae35e2d0d203079e26c83ccaec95743" ],
     [ "Utils", "dir_d59928a8991e409486b76da4b2a9995a.html", "dir_d59928a8991e409486b76da4b2a9995a" ],
-    [ "CGVBoundsProvider.cs", "_c_g_v_bounds_provider_8cs.html", [
-      [ "CGVBoundsProvider", "class_c_g_v_1_1_c_g_v_bounds_provider.html", "class_c_g_v_1_1_c_g_v_bounds_provider" ]
-    ] ],
-    [ "CGVConsumable.cs", "_c_g_v_consumable_8cs.html", "_c_g_v_consumable_8cs" ],
     [ "CGVGameLoader.cs", "_c_g_v_game_loader_8cs.html", [
       [ "CGVGameLoader", "class_c_g_v_1_1_c_g_v_game_loader.html", null ]
     ] ],
@@ -24,19 +20,7 @@ var dir_f13b41af88cf68434578284aaf699e39 =
     [ "CGVGameSettings.cs", "_c_g_v_game_settings_8cs.html", [
       [ "CGVGameSettings", "class_c_g_v_1_1_c_g_v_game_settings.html", "class_c_g_v_1_1_c_g_v_game_settings" ]
     ] ],
-    [ "CGVInteractable.cs", "_c_g_v_interactable_8cs.html", [
-      [ "CGVInteractable", "class_c_g_v_1_1_c_g_v_interactable.html", "class_c_g_v_1_1_c_g_v_interactable" ]
-    ] ],
-    [ "CGVMainMenu.cs", "_c_g_v_main_menu_8cs.html", [
-      [ "CGVMainMenu", "class_c_g_v_1_1_u_i_1_1_c_g_v_main_menu.html", "class_c_g_v_1_1_u_i_1_1_c_g_v_main_menu" ]
-    ] ],
     [ "CGVPersistentInfo.cs", "_c_g_v_persistent_info_8cs.html", [
       [ "CGVPersistentInfo", "class_c_g_v_1_1_c_g_v_persistent_info.html", "class_c_g_v_1_1_c_g_v_persistent_info" ]
-    ] ],
-    [ "CGVPlayerInputManager.cs", "_c_g_v_player_input_manager_8cs.html", [
-      [ "CGVPlayerInputManager", "class_c_g_v_1_1_c_g_v_player_input_manager.html", "class_c_g_v_1_1_c_g_v_player_input_manager" ]
-    ] ],
-    [ "CGVSplitScreen.cs", "_c_g_v_split_screen_8cs.html", [
-      [ "CGVSplitScreen", "class_c_g_v_1_1_c_g_v_split_screen.html", "class_c_g_v_1_1_c_g_v_split_screen" ]
     ] ]
 ];

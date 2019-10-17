@@ -9,6 +9,7 @@ var class_c_g_v_1_1_c_g_v_player_controller =
     [ "_LocalPlayers", "class_c_g_v_1_1_c_g_v_player_controller.html#a1b651a621a7c884138af87941152074a", null ],
     [ "_NeedToPressMove", "class_c_g_v_1_1_c_g_v_player_controller.html#a2c0a99d04c0240ad65cfef2540d1a289", null ],
     [ "_PlayerName", "class_c_g_v_1_1_c_g_v_player_controller.html#a1d8a3133f37316441a619ea64c83237a", null ],
+    [ "_ShowMainPlayerDisplay", "class_c_g_v_1_1_c_g_v_player_controller.html#af4dcc607fa632abd2be6aca71fad6821", null ],
     [ "PlayerActions", "class_c_g_v_1_1_c_g_v_player_controller.html#a45396ccb8e8ca17de10975b4f73d3e8a", null ],
     [ "Camera", "class_c_g_v_1_1_c_g_v_player_controller.html#a820fd26292a8bd7e80bfd4809981df80", null ],
     [ "Canvas", "class_c_g_v_1_1_c_g_v_player_controller.html#ac728be4bc0056ffbf757a782bf93f081", null ],

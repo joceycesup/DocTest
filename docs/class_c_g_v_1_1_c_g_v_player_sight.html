@@ -98,6 +98,9 @@ $(document).ready(function(){initNavTree('class_c_g_v_1_1_c_g_v_player_sight.htm
 <div class="title">CGV.CGVPlayerSight Class Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
+
+<p>Player component that stores the targets acquired by a character during the game.  
+ <a href="class_c_g_v_1_1_c_g_v_player_sight.html#details">More...</a></p>
 <div class="dynheader">
 Inheritance diagram for CGV.CGVPlayerSight:</div>
 <div class="dyncontent">
@@ -126,12 +129,10 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:ae504a2a9df5f8417343fd5e020468ceb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae4d890bea54c3b4dacfb2bc7aab70c9a"><td class="memItemLeft" align="right" valign="top">delegate void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_c_g_v_1_1_c_g_v_player_sight.html#ae4d890bea54c3b4dacfb2bc7aab70c9a">TargetAcquisitionEvent</a> (<a class="el" href="class_c_g_v_1_1_c_g_v_target.html">CGVTarget</a> target)</td></tr>
 <tr class="separator:ae4d890bea54c3b4dacfb2bc7aab70c9a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab0711f0e1cae558380dd63f95964ea70"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_c_g_v_1_1_c_g_v_player_sight.html#ab0711f0e1cae558380dd63f95964ea70">Init</a> (<a class="el" href="class_c_g_v_1_1_c_g_v_player_character.html">CGVPlayerCharacter</a> player)</td></tr>
-<tr class="separator:ab0711f0e1cae558380dd63f95964ea70"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1a96a0ca9c2f5bf6499d046cbe4ceca5"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_c_g_v_1_1_c_g_v_player_sight.html#a1a96a0ca9c2f5bf6499d046cbe4ceca5">AcquireEveryTarget</a> ()</td></tr>
 <tr class="separator:a1a96a0ca9c2f5bf6499d046cbe4ceca5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a691f128437445ef2496055a98c6e17c1"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_c_g_v_1_1_c_g_v_player_sight.html#a691f128437445ef2496055a98c6e17c1">AcquireTarget</a> (<a class="el" href="class_c_g_v_1_1_c_g_v_target.html">CGVTarget</a> target)</td></tr>
-<tr class="separator:a691f128437445ef2496055a98c6e17c1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5fce8ba76c8ef8e1b634375854dfda59"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_c_g_v_1_1_c_g_v_player_sight.html#a5fce8ba76c8ef8e1b634375854dfda59">AcquireTarget</a> (<a class="el" href="class_c_g_v_1_1_c_g_v_target.html">CGVTarget</a> target, float minAcquiredTime=0.01f)</td></tr>
+<tr class="separator:a5fce8ba76c8ef8e1b634375854dfda59"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae7d0c325c07fedaaf8e8ee5a76244c1c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_c_g_v_1_1_c_g_v_player_sight.html#ae7d0c325c07fedaaf8e8ee5a76244c1c">LoseTarget</a> (<a class="el" href="class_c_g_v_1_1_c_g_v_target.html">CGVTarget</a> target)</td></tr>
 <tr class="separator:ae7d0c325c07fedaaf8e8ee5a76244c1c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a355fcc5f7b3ed87f0d56267afe850667"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_c_g_v_1_1_c_g_v_player_sight.html#a355fcc5f7b3ed87f0d56267afe850667">FindClosestTarget</a> ()</td></tr>
@@ -187,7 +188,10 @@ Properties</h2></td></tr>
 <tr class="memitem:a403cc043ff522f3eba2c262414d00ae2"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_c_g_v_1_1_c_g_v_player_sight.html#a403cc043ff522f3eba2c262414d00ae2">IsAiming</a><code> [get, set]</code></td></tr>
 <tr class="separator:a403cc043ff522f3eba2c262414d00ae2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Member Enumeration Documentation</h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p>Player component that stores the targets acquired by a character during the game. </p>
+<p>It is notified when a character emits a sound and adds it to the list accordingly.</p>
+</div><h2 class="groupheader">Member Enumeration Documentation</h2>
 <a id="ae0b7e07873fa4d1afeb8e99481531646"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ae0b7e07873fa4d1afeb8e99481531646">&#9670;&nbsp;</a></span>DetectionRadius</h2>
 
@@ -235,8 +239,8 @@ Properties</h2></td></tr>
 
 </div>
 </div>
-<a id="a691f128437445ef2496055a98c6e17c1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a691f128437445ef2496055a98c6e17c1">&#9670;&nbsp;</a></span>AcquireTarget()</h2>
+<a id="a5fce8ba76c8ef8e1b634375854dfda59"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5fce8ba76c8ef8e1b634375854dfda59">&#9670;&nbsp;</a></span>AcquireTarget()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -245,8 +249,18 @@ Properties</h2></td></tr>
           <td class="memname">void CGV.CGVPlayerSight.AcquireTarget </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="class_c_g_v_1_1_c_g_v_target.html">CGVTarget</a>&#160;</td>
-          <td class="paramname"><em>target</em></td><td>)</td>
+          <td class="paramname"><em>target</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>minAcquiredTime</em> = <code>0.01f</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -297,24 +311,6 @@ Properties</h2></td></tr>
           <td class="memname">bool CGV.CGVPlayerSight.FindClosestTarget </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ab0711f0e1cae558380dd63f95964ea70"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab0711f0e1cae558380dd63f95964ea70">&#9670;&nbsp;</a></span>Init()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void CGV.CGVPlayerSight.Init </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="class_c_g_v_1_1_c_g_v_player_character.html">CGVPlayerCharacter</a>&#160;</td>
-          <td class="paramname"><em>player</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -793,7 +789,7 @@ Properties</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespace_c_g_v.html">CGV</a></li><li class="navelem"><a class="el" href="class_c_g_v_1_1_c_g_v_player_sight.html">CGVPlayerSight</a></li>
-    <li class="footer">Generated on Wed Oct 16 2019 12:21:48 for CGV by
+    <li class="footer">Generated on Thu Oct 17 2019 09:57:38 for CGV by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.16 </li>
   </ul>

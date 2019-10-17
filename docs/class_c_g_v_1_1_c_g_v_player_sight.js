@@ -8,10 +8,9 @@ var class_c_g_v_1_1_c_g_v_player_sight =
       [ "Level3", "class_c_g_v_1_1_c_g_v_player_sight.html#ae0b7e07873fa4d1afeb8e99481531646a68290d8bb76fe3ceb98d34e8b068f6be", null ]
     ] ],
     [ "AcquireEveryTarget", "class_c_g_v_1_1_c_g_v_player_sight.html#a1a96a0ca9c2f5bf6499d046cbe4ceca5", null ],
-    [ "AcquireTarget", "class_c_g_v_1_1_c_g_v_player_sight.html#a691f128437445ef2496055a98c6e17c1", null ],
+    [ "AcquireTarget", "class_c_g_v_1_1_c_g_v_player_sight.html#a5fce8ba76c8ef8e1b634375854dfda59", null ],
     [ "DetectionRadiusEvent", "class_c_g_v_1_1_c_g_v_player_sight.html#ae504a2a9df5f8417343fd5e020468ceb", null ],
     [ "FindClosestTarget", "class_c_g_v_1_1_c_g_v_player_sight.html#a355fcc5f7b3ed87f0d56267afe850667", null ],
-    [ "Init", "class_c_g_v_1_1_c_g_v_player_sight.html#ab0711f0e1cae558380dd63f95964ea70", null ],
     [ "LoseTarget", "class_c_g_v_1_1_c_g_v_player_sight.html#ae7d0c325c07fedaaf8e8ee5a76244c1c", null ],
     [ "PlayerDetectionRadiusEvent", "class_c_g_v_1_1_c_g_v_player_sight.html#a0e6aa2ca8bef11acfbb7a36e31d6ce1c", null ],
     [ "SwitchTarget", "class_c_g_v_1_1_c_g_v_player_sight.html#adf13e42f5ae48137ff8d17a1144775c7", null ],

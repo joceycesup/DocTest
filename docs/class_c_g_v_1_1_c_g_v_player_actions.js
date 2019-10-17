@@ -1,7 +1,7 @@
 var class_c_g_v_1_1_c_g_v_player_actions =
 [
     [ "CGVPlayerActions", "class_c_g_v_1_1_c_g_v_player_actions.html#a2ede601f696648628549ce0e9f5ab79e", null ],
-    [ "CreateWithDefaultBindings", "class_c_g_v_1_1_c_g_v_player_actions.html#ad8aef1f42cde9152b40d0b3cf8fb2b1f", null ],
+    [ "CreateWithDefaultBindings", "class_c_g_v_1_1_c_g_v_player_actions.html#a0521f0d5098a397d847d50a6133aa1c6", null ],
     [ "CenterCamera", "class_c_g_v_1_1_c_g_v_player_actions.html#ac4a97d972d956e28dcee994fe689cf56", null ],
     [ "Down", "class_c_g_v_1_1_c_g_v_player_actions.html#a9536b27d399b15069959f77006117302", null ],
     [ "EquipmentAction1", "class_c_g_v_1_1_c_g_v_player_actions.html#aef5cfea498a529f0a7da287d4e09083a", null ],

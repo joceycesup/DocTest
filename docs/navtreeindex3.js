@@ -1,5 +1,6 @@
 var NAVTREEINDEX3 =
 {
+"class_c_g_v_1_1_c_g_v_sequence_loader.html#a19f1485cdd37662cb52f17aa7dcc869c":[1,0,0,45,0],
 "class_c_g_v_1_1_c_g_v_sequence_loader.html#a531ad1c06ca0dbbbb68e818e0280c6c4":[1,0,0,45,3],
 "class_c_g_v_1_1_c_g_v_sequence_loader.html#a537bdaf0244a5d995917a85a468577ab":[1,0,0,45,2],
 "class_c_g_v_1_1_c_g_v_sequence_loader.html#a789d8f4572fcaca7c5fc6f07993f92f8":[1,0,0,45,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX3 =
 "class_c_g_v_1_1_equipment_1_1_c_g_v_firearm_action.html#a151f94d300f47b8de5976f60adebbe1d":[1,0,0,1,8,53],
 "class_c_g_v_1_1_equipment_1_1_c_g_v_firearm_action.html#a160d1d3c155840f9422013b3229e5aee":[1,0,0,1,8,1],
 "class_c_g_v_1_1_equipment_1_1_c_g_v_firearm_action.html#a20f52c8666bc32c6706c222481b6dc55":[1,0,0,1,8,14],
-"class_c_g_v_1_1_equipment_1_1_c_g_v_firearm_action.html#a24187b25c68d511f8662153cfcf70cdf":[1,0,0,1,8,38],
-"class_c_g_v_1_1_equipment_1_1_c_g_v_firearm_action.html#a267700c6584bbeeec0eee0033b51792f":[1,0,0,1,8,21]
+"class_c_g_v_1_1_equipment_1_1_c_g_v_firearm_action.html#a24187b25c68d511f8662153cfcf70cdf":[1,0,0,1,8,38]
 };

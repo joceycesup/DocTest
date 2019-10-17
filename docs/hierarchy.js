@@ -156,8 +156,7 @@ var hierarchy =
         [ "CGV.UI.CGVScoreBoard", "class_c_g_v_1_1_u_i_1_1_c_g_v_score_board.html", null ]
       ] ],
       [ "CGV.UI.CGVTableCell", "class_c_g_v_1_1_u_i_1_1_c_g_v_table_cell.html", null ],
-      [ "CGV.UI.CGVTableRow", "class_c_g_v_1_1_u_i_1_1_c_g_v_table_row.html", null ],
-      [ "SceneReferenceTest", "class_scene_reference_test.html", null ]
+      [ "CGV.UI.CGVTableRow", "class_c_g_v_1_1_u_i_1_1_c_g_v_table_row.html", null ]
     ] ],
     [ "MonoBehaviourPunCallbacks", null, [
       [ "CGV.CGVPlayerController", "class_c_g_v_1_1_c_g_v_player_controller.html", null ],

@@ -3,6 +3,9 @@ var dir_4ae35e2d0d203079e26c83ccaec95743 =
     [ "CGVButtonEventWrapper.cs", "_c_g_v_button_event_wrapper_8cs.html", [
       [ "CGVButtonEventWrapper", "class_c_g_v_1_1_u_i_1_1_c_g_v_button_event_wrapper.html", null ]
     ] ],
+    [ "CGVMainMenu.cs", "_c_g_v_main_menu_8cs.html", [
+      [ "CGVMainMenu", "class_c_g_v_1_1_u_i_1_1_c_g_v_main_menu.html", "class_c_g_v_1_1_u_i_1_1_c_g_v_main_menu" ]
+    ] ],
     [ "CGVPlayerCanvas.cs", "_c_g_v_player_canvas_8cs.html", [
       [ "CGVPlayerCanvas", "class_c_g_v_1_1_u_i_1_1_c_g_v_player_canvas.html", "class_c_g_v_1_1_u_i_1_1_c_g_v_player_canvas" ]
     ] ],
