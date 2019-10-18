@@ -1,5 +1,6 @@
 var NAVTREEINDEX2 =
 {
+"class_c_g_v_1_1_editor_1_1_c_g_v_ground_texture_window.html":[1,0,0,0,4],
 "class_c_g_v_1_1_editor_1_1_c_g_v_point_of_interest_order_window.html":[1,0,0,0,5],
 "class_c_g_v_1_1_editor_1_1_c_g_v_screenshot_window.html":[1,0,0,0,6],
 "class_c_g_v_1_1_editor_1_1_c_g_v_screenshot_window.html#a07d9c1fd988375c66d42e5f68ce0df67":[1,0,0,0,6,1],
@@ -231,14 +232,14 @@ var NAVTREEINDEX2 =
 "class_c_g_v_1_1_player_1_1_c_g_v_bounds_provider.html#ab58777d3ca41f361cba53ed4febbb8df":[1,0,0,2,2,0],
 "class_c_g_v_1_1_player_1_1_c_g_v_bounds_provider.html#ac1feed286347282582c745d21f2e36d7":[1,0,0,2,2,2],
 "class_c_g_v_1_1_player_1_1_c_g_v_dog.html":[1,0,0,2,3],
-"class_c_g_v_1_1_player_1_1_c_g_v_dog.html#a028b2c405a246fc9f971c5403bc79205":[1,0,0,2,3,10],
-"class_c_g_v_1_1_player_1_1_c_g_v_dog.html#a10fa492aeb980759cf60f87dc8f7366c":[1,0,0,2,3,21],
-"class_c_g_v_1_1_player_1_1_c_g_v_dog.html#a2409bb21145a675f3f369687623a8bd5":[1,0,0,2,3,20],
+"class_c_g_v_1_1_player_1_1_c_g_v_dog.html#a028b2c405a246fc9f971c5403bc79205":[1,0,0,2,3,11],
+"class_c_g_v_1_1_player_1_1_c_g_v_dog.html#a10fa492aeb980759cf60f87dc8f7366c":[1,0,0,2,3,22],
+"class_c_g_v_1_1_player_1_1_c_g_v_dog.html#a2409bb21145a675f3f369687623a8bd5":[1,0,0,2,3,21],
 "class_c_g_v_1_1_player_1_1_c_g_v_dog.html#a25a2110a8ddadcc1394fad63d1aa3556":[1,0,0,2,3,6],
-"class_c_g_v_1_1_player_1_1_c_g_v_dog.html#a26d35cf3cd3c43b84c4c50d7566c3b18":[1,0,0,2,3,14],
-"class_c_g_v_1_1_player_1_1_c_g_v_dog.html#a2f77fab4dd552a4020efb9c4c813eecc":[1,0,0,2,3,18],
+"class_c_g_v_1_1_player_1_1_c_g_v_dog.html#a26d35cf3cd3c43b84c4c50d7566c3b18":[1,0,0,2,3,15],
+"class_c_g_v_1_1_player_1_1_c_g_v_dog.html#a2f77fab4dd552a4020efb9c4c813eecc":[1,0,0,2,3,19],
 "class_c_g_v_1_1_player_1_1_c_g_v_dog.html#a3dfae01ebd234ce52dba1ba92741fb4d":[1,0,0,2,3,4],
-"class_c_g_v_1_1_player_1_1_c_g_v_dog.html#a4a0e3f1d1316a7c9ff15f5fee5656d07":[1,0,0,2,3,19],
+"class_c_g_v_1_1_player_1_1_c_g_v_dog.html#a4a0e3f1d1316a7c9ff15f5fee5656d07":[1,0,0,2,3,20],
 "class_c_g_v_1_1_player_1_1_c_g_v_dog.html#a58aba4ca332a45efb63b34a3dc4046e7":[1,0,0,2,3,1],
 "class_c_g_v_1_1_player_1_1_c_g_v_dog.html#a58aba4ca332a45efb63b34a3dc4046e7a4ea7755f84f02d23876d90be2f9765cf":[1,0,0,2,3,1,4],
 "class_c_g_v_1_1_player_1_1_c_g_v_dog.html#a58aba4ca332a45efb63b34a3dc4046e7a6602bbeb2956c035fb4cb5e844a4861b":[1,0,0,2,3,1,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX2 =
 "class_c_g_v_1_1_player_1_1_c_g_v_dog.html#a58aba4ca332a45efb63b34a3dc4046e7ac5edd2fed6b7432d4aa9973ed3f4b60f":[1,0,0,2,3,1,8],
 "class_c_g_v_1_1_player_1_1_c_g_v_dog.html#a58aba4ca332a45efb63b34a3dc4046e7adcfafcb4323b102c7e204555d313ba0a":[1,0,0,2,3,1,6],
 "class_c_g_v_1_1_player_1_1_c_g_v_dog.html#a58aba4ca332a45efb63b34a3dc4046e7ae599161956d626eda4cb0a5ffb85271c":[1,0,0,2,3,1,2],
-"class_c_g_v_1_1_player_1_1_c_g_v_dog.html#a58aba4ca332a45efb63b34a3dc4046e7af2d63f3891dec6ad9a24ab202c42c0bd":[1,0,0,2,3,1,7],
-"class_c_g_v_1_1_player_1_1_c_g_v_dog.html#a5b1e5d299e6436866895746be4aee8af":[1,0,0,2,3,9]
+"class_c_g_v_1_1_player_1_1_c_g_v_dog.html#a58aba4ca332a45efb63b34a3dc4046e7af2d63f3891dec6ad9a24ab202c42c0bd":[1,0,0,2,3,1,7]
 };

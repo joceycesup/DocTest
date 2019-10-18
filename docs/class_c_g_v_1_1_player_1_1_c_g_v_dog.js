@@ -24,6 +24,7 @@ var class_c_g_v_1_1_player_1_1_c_g_v_dog =
     [ "FollowMaster", "class_c_g_v_1_1_player_1_1_c_g_v_dog.html#a6395754fce9837ef7a252178903d4900", null ],
     [ "GetPathLength", "class_c_g_v_1_1_player_1_1_c_g_v_dog.html#a25a2110a8ddadcc1394fad63d1aa3556", null ],
     [ "Guide", "class_c_g_v_1_1_player_1_1_c_g_v_dog.html#a8a5ff12646fe0c960fed5808f42d6566", null ],
+    [ "ResetDog", "class_c_g_v_1_1_player_1_1_c_g_v_dog.html#a99e19572e2f8bd9bdf2900c6c72a34ba", null ],
     [ "TriggerReaction", "class_c_g_v_1_1_player_1_1_c_g_v_dog.html#abac4da3e0192c0728cb02b95e0a20e6f", null ],
     [ "_Acceleration", "class_c_g_v_1_1_player_1_1_c_g_v_dog.html#a5b1e5d299e6436866895746be4aee8af", null ],
     [ "_AttackPlayerSpeedMultiplier", "class_c_g_v_1_1_player_1_1_c_g_v_dog.html#a028b2c405a246fc9f971c5403bc79205", null ],

@@ -150,5 +150,6 @@ var searchData=
   ['_5fupdatecount_147',['_UpdateCount',['../class_c_g_v_1_1_c_g_v_projectile.html#a1a3c2dfbe7bb3eea0982d33b2870301a',1,'CGV::CGVProjectile']]],
   ['_5fusenavmeshagent_148',['_UseNavMeshAgent',['../class_c_g_v_1_1_player_1_1_c_g_v_dog_master_player_character.html#a4ca99b2ab60520bea8eab042622b0b9c',1,'CGV::Player::CGVDogMasterPlayerCharacter']]],
   ['_5fvisualthreatangle_149',['_VisualThreatAngle',['../class_c_g_v_1_1_player_1_1_c_g_v_dog.html#a10fa492aeb980759cf60f87dc8f7366c',1,'CGV::Player::CGVDog']]],
-  ['_5fvisualthreatdistance_150',['_VisualThreatDistance',['../class_c_g_v_1_1_player_1_1_c_g_v_dog.html#a7a3457bfb5e6c7af9cc2405e2a213960',1,'CGV::Player::CGVDog']]]
+  ['_5fvisualthreatdistance_150',['_VisualThreatDistance',['../class_c_g_v_1_1_player_1_1_c_g_v_dog.html#a7a3457bfb5e6c7af9cc2405e2a213960',1,'CGV::Player::CGVDog']]],
+  ['_5fwallhits_151',['_WallHits',['../class_c_g_v_1_1_player_1_1_c_g_v_dog_master_player_character.html#a86873c45b33722202177f78049b2034e',1,'CGV::Player::CGVDogMasterPlayerCharacter']]]
 ];

@@ -187,5 +187,6 @@ var hierarchy =
     [ "CGV.CGVTargetSequence.Target", "class_c_g_v_1_1_c_g_v_target_sequence_1_1_target.html", null ],
     [ "CGV.CGVTargetSequence.TargetPosition", "class_c_g_v_1_1_c_g_v_target_sequence_1_1_target_position.html", null ],
     [ "CGV.CGVProjectile.Trajectory", "class_c_g_v_1_1_c_g_v_projectile_1_1_trajectory.html", null ],
-    [ "CGV.CGVTargetSequence.Trigger", "class_c_g_v_1_1_c_g_v_target_sequence_1_1_trigger.html", null ]
+    [ "CGV.CGVTargetSequence.Trigger", "class_c_g_v_1_1_c_g_v_target_sequence_1_1_trigger.html", null ],
+    [ "CGV.Player.CGVDogMasterPlayerCharacter.WallHit", "struct_c_g_v_1_1_player_1_1_c_g_v_dog_master_player_character_1_1_wall_hit.html", null ]
 ];

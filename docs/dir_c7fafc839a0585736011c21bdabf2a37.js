@@ -6,7 +6,8 @@ var dir_c7fafc839a0585736011c21bdabf2a37 =
       [ "CGVDog", "class_c_g_v_1_1_player_1_1_c_g_v_dog.html", "class_c_g_v_1_1_player_1_1_c_g_v_dog" ]
     ] ],
     [ "CGVDogMasterPlayerCharacter.cs", "_c_g_v_dog_master_player_character_8cs.html", [
-      [ "CGVDogMasterPlayerCharacter", "class_c_g_v_1_1_player_1_1_c_g_v_dog_master_player_character.html", "class_c_g_v_1_1_player_1_1_c_g_v_dog_master_player_character" ]
+      [ "CGVDogMasterPlayerCharacter", "class_c_g_v_1_1_player_1_1_c_g_v_dog_master_player_character.html", "class_c_g_v_1_1_player_1_1_c_g_v_dog_master_player_character" ],
+      [ "WallHit", "struct_c_g_v_1_1_player_1_1_c_g_v_dog_master_player_character_1_1_wall_hit.html", "struct_c_g_v_1_1_player_1_1_c_g_v_dog_master_player_character_1_1_wall_hit" ]
     ] ],
     [ "CGVInteractable.cs", "_c_g_v_interactable_8cs.html", [
       [ "CGVInteractable", "class_c_g_v_1_1_c_g_v_interactable.html", "class_c_g_v_1_1_c_g_v_interactable" ]

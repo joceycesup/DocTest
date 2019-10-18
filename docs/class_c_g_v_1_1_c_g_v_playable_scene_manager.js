@@ -1,5 +1,6 @@
 var class_c_g_v_1_1_c_g_v_playable_scene_manager =
 [
+    [ "CreateSceneManager", "class_c_g_v_1_1_c_g_v_playable_scene_manager.html#a026587d685e356464acdaba7c45507b3", null ],
     [ "GetNextTeam", "class_c_g_v_1_1_c_g_v_playable_scene_manager.html#abc4e8f3497eccdd2c2d981ac5a82fe28", null ],
     [ "GetSpawnForPlayer", "class_c_g_v_1_1_c_g_v_playable_scene_manager.html#a35e454965319ab05366af91189fa9e0a", null ],
     [ "GetTeamDeaths", "class_c_g_v_1_1_c_g_v_playable_scene_manager.html#a6479372abc3940aca07deb49e90a231a", null ],
